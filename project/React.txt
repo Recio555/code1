@@ -1,0 +1,5 @@
+npm create vite@latest mi-app-react --template react
+
+cd mi-app-react
+npm install
+npm run dev

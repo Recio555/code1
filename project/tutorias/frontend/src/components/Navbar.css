@@ -1,0 +1,46 @@
+/* src/components/Navbar.css */
+
+/* Estilos para el contenedor de navegación */
+nav {
+  background-color: #007BFF; /* Azul */
+  padding: 10px 0;
+}
+
+/* Estilos para la lista */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: flex-end; /* Alinear a la derecha */
+  margin-right: 20px;
+}
+
+/* Estilos para los elementos de lista */
+li {
+  margin: 0 15px;
+}
+
+/* Estilo para los enlaces */
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 8px 15px;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+/* Estilo hover */
+a:hover {
+  background-color: #0056b3; /* Azul más oscuro al pasar el mouse */
+  border-radius: 5px;
+}
+
+/* Estilo activo del enlace */
+a.active {
+  background-color: #003d80; /* Azul aún más oscuro para el activo */
+  border-radius: 5px;
+}
+
+

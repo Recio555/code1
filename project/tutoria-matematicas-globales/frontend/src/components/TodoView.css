@@ -1,0 +1,70 @@
+/* General layout */
+.todo-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+  }
+  
+  /* List style */
+  .todo-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Each todo item */
+  .todo-item {
+    background-color: #f5f7fa;
+    margin-bottom: 12px;
+    padding: 16px 20px;
+    border-radius: 10px;
+    border-left: 5px solid #007bff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: box-shadow 0.2s ease;
+  }
+  
+  .todo-item:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Text info */
+  .todo-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .todo-title {
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #333;
+  }
+  
+  .todo-desc {
+    font-size: 0.95rem;
+    color: #666;
+  }
+  
+  /* Button */
+  .todo-delete-btn {
+    background-color: transparent;
+    border: 2px solid #dc3545;
+    color: #dc3545;
+    padding: 6px 12px;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .todo-delete-btn:hover {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  

@@ -1,0 +1,76 @@
+
+export const translations = {
+  es: {
+    title: 'Tutorías Matemáticas Globales',
+    findTutor: 'Encuentra un tutor',
+    subjects: 'Materias',
+    algebra: 'Álgebra',
+    calculus: 'Cálculo',
+    geometry: 'Geometría',
+    statistics: 'Estadística',
+    language: 'Idioma',
+    spanish: 'Español',
+    english: 'Inglés',
+    french: 'Francés',
+    search: 'Buscar',
+    featuredTutors: 'Tutores destacados',
+    availability: 'Disponibilidad',
+    rating: 'Calificación',
+    viewProfile: 'Ver perfil',
+    bookSession: 'Reservar sesión',
+    upcomingSessions: 'Próximas sesiones',
+    resources: 'Recursos',
+    progress: 'Mi progreso',
+    menu: 'Menú'
+  },
+  en: {
+    title: 'Global Math Tutoring',
+    findTutor: 'Find a tutor',
+    subjects: 'Subjects',
+    algebra: 'Algebra',
+    calculus: 'Calculus',
+    geometry: 'Geometry',
+    statistics: 'Statistics',
+    language: 'Language',
+    spanish: 'Spanish',
+    english: 'English',
+    french: 'French',
+    search: 'Search',
+    featuredTutors: 'Featured tutors',
+    availability: 'Availability',
+    rating: 'Rating',
+    viewProfile: 'View profile',
+    bookSession: 'Book session',
+    upcomingSessions: 'Upcoming sessions',
+    resources: 'Resources',
+    progress: 'My progress',
+    menu: 'Menu'
+  },
+  fr: {
+    title: 'Tutorat Mathématique Global',
+    findTutor: 'Trouver un tuteur',
+    subjects: 'Matières',
+    algebra: 'Algèbre',
+    calculus: 'Calcul',
+    geometry: 'Géométrie',
+    statistics: 'Statistiques',
+    language: 'Langue',
+    spanish: 'Espagnol',
+    english: 'Anglais',
+    french: 'Français',
+    search: 'Rechercher',
+    featuredTutors: 'Tuteurs en vedette',
+    availability: 'Disponibilité',
+    rating: 'Évaluation',
+    viewProfile: 'Voir le profil',
+    bookSession: 'Réserver une séance',
+    upcomingSessions: 'Séances à venir',
+    resources: 'Ressources',
+    progress: 'Ma progression',
+    menu: 'Menu'
+  }
+};
+
+
+
+

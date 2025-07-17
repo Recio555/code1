@@ -1,0 +1,14 @@
+C:\code\c#\sumaNumeros\bin\Debug\net9.0\SumaNumeros.exe
+C:\code\c#\sumaNumeros\bin\Debug\net9.0\SumaNumeros.deps.json
+C:\code\c#\sumaNumeros\bin\Debug\net9.0\SumaNumeros.runtimeconfig.json
+C:\code\c#\sumaNumeros\bin\Debug\net9.0\SumaNumeros.dll
+C:\code\c#\sumaNumeros\bin\Debug\net9.0\SumaNumeros.pdb
+C:\code\c#\sumaNumeros\obj\Debug\net9.0\SumaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\c#\sumaNumeros\obj\Debug\net9.0\SumaNumeros.AssemblyInfoInputs.cache
+C:\code\c#\sumaNumeros\obj\Debug\net9.0\SumaNumeros.AssemblyInfo.cs
+C:\code\c#\sumaNumeros\obj\Debug\net9.0\SumaNumeros.csproj.CoreCompileInputs.cache
+C:\code\c#\sumaNumeros\obj\Debug\net9.0\SumaNumeros.dll
+C:\code\c#\sumaNumeros\obj\Debug\net9.0\refint\SumaNumeros.dll
+C:\code\c#\sumaNumeros\obj\Debug\net9.0\SumaNumeros.pdb
+C:\code\c#\sumaNumeros\obj\Debug\net9.0\SumaNumeros.genruntimeconfig.cache
+C:\code\c#\sumaNumeros\obj\Debug\net9.0\ref\SumaNumeros.dll
