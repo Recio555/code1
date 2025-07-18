@@ -23,7 +23,7 @@ DEBUG = os.environ.get("DEBUG", "").strip().lower() in {"1", "true", "on", "yes"
 
 
 # Initialize FastAPI app
-uri = "mongodb+srv://hnorecio:Filipenses48@cluster0.xiwaxdd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri = "mongodb+srv://hnorecio:contraseña @cluster0.xiwaxdd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     global client, database, collection
